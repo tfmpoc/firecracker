@@ -41,7 +41,7 @@ void doModule(int module)
 
 void Test()
 {
-  doModule(1);
+//  doModule(1);
   doModule(2);
 }
 
